@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/remilagorce/Documents/Conext/Projets/near-campain-project/contract-campain/contract/target/debug/build/typenum-752424536c07b4b3/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/remilagorce/Documents/Conext/Projets/near-campain-project/contract-campain/contract/target/debug/build/typenum-752424536c07b4b3/out/op.rs

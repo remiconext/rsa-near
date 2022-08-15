@@ -1,0 +1,1 @@
+/Users/remilagorce/Documents/Conext/Projets/near-campain-project/contract-campain/contract/target/wasm32-unknown-unknown/release/libgreeter.rlib: /Users/remilagorce/Documents/Conext/Projets/near-campain-project/contract-campain/contract/src/external.rs /Users/remilagorce/Documents/Conext/Projets/near-campain-project/contract-campain/contract/src/lib.rs

@@ -1,0 +1,1 @@
+/Users/remilagorce/Documents/Conext/Projets/near-campain-project/contract-campain/contract/target/debug/libgreeter.dylib: /Users/remilagorce/Documents/Conext/Projets/near-campain-project/contract-campain/contract/src/external.rs /Users/remilagorce/Documents/Conext/Projets/near-campain-project/contract-campain/contract/src/lib.rs
